@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+
+label {
+    padding: 5px;
+    color: #222;
+    font-family: corbel, sans-serif;
+    font-size: 14px;
+    margin: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #777;
+}
+
+input.error {
+    border-color: red;
+}
+
+
+button {
+    padding: 10px 15px;
+    background-color: rgb(70, 153, 179);
+    color: white;
+    border: 1px solid rgb(70, 153, 179);
+    background-color: 250ms;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: rgb(70, 153, 179);
+}
+
+.  {
+    width: 100%;
+}
